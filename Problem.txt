@@ -8,4 +8,3 @@ b.	A function to assign the relevant grade to each student.
 c.	A function to find the highest test score.
 d.	A function to print the names of the students having the highest test score. 
 Your program must output each student’s name in this form: last name followed by a comma, followed by a space, followed by the first name; the name must be left justified. Moreover, other than declaring the variables and opening the input and output files, the function main should only be a collection of function calls.
-To utilize the space available within this document page, the snapshot of the code will be shown in the next page
