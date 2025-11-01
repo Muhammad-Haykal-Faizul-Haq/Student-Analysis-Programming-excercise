@@ -68,7 +68,7 @@ void printHighestScorers(studentType students[], int size, int highestScore) {
 
 // Final print all function
 void printAll(studentType students[], int size) {
-    cout << left << setw(20) << "Name" 
+    cout << left << setw(25) << "Name" 
          << setw(10) << "Score" 
          << setw(10) << "Grade" << endl;
     cout << string(40, '-') << endl;
@@ -102,4 +102,5 @@ int main() {
     printHighestScorers(students, studentCount, highestScore);
 
     return 0;
+
 }
